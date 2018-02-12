@@ -21,7 +21,7 @@ deploy:
   file: deploy/*
   skip_cleanup: true
   on:
-    repo: kvhnuke/etherwallet
+    repo: djalmabright/etherwallet
     branch: mercury
     tags: true
 notifications:
