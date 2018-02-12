@@ -1,5 +1,5 @@
+process.env.DISABLE_NOTIFIER = true;
 const fs = require('fs');
-
 const autoprefixer = require('gulp-autoprefixer');
 const archiver     = require('archiver');
 const bump         = require('gulp-bump');
